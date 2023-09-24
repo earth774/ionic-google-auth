@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { GoogleAuth } from '@fmendoza/capacitor-google-auth';
 
 @Component({
   selector: 'app-tab1',
@@ -7,6 +8,14 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
-  constructor() {}
+  object:any="";
+  constructor() {
+
+  }
+
+  async googleSignIn() {
+    const response = await GoogleAuth.signIn();
+    this.object= JSON.stringify(response);
+  }
 
 }

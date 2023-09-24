@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824153985838",
+    "project_id": "ionic-auth-firebase-3fe14",
+    "storage_bucket": "ionic-auth-firebase-3fe14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824153985838:android:4d8598bf9528b550e1a0bf",
+        "android_client_info": {
+          "package_name": "com.test.chicguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824153985838-vo7bd8oljdlhuuap0rs9lk33p9bk0nip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.chicguide",
+            "certificate_hash": "6e07537ada9d071d853a8b3d96a4fbf45b9a0daf"
+          }
+        },
+        {
+          "client_id": "824153985838-ng4e3ig620o55bb40j7ak1ooscclhjeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0-5L3s6cY1nY7KoZF---yaefJIrFukg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824153985838-au5jnlhbciq97cfj8fcn095rhnbnmprm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

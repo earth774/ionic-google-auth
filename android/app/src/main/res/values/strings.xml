@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">google-login2</string>
+    <string name="title_activity_main">google-login2</string>
+    <string name="package_name">com.test.chicguide</string>
+    <string name="custom_url_scheme">com.test.chicguide</string>
+    <string name="server_client_id">824153985838-ng4e3ig620o55bb40j7ak1ooscclhjeb.apps.googleusercontent.com</string>
+</resources>
